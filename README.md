@@ -84,14 +84,19 @@ A real-time chat application built with React, Node.js, Express, and MongoDB.
 ## Necessary Environment Configurations
 
 1. Backend Environment Variables:
-    1.1 MONGODB_URI: MongoDB connection URI
+   
+    1.1 MONGODB_URI: MongoDB connection URI,
+   
     1.2 JWT_SECRET: Secret key for JWT token generation
 
-2. Frontend Environment Variables:
+3. Frontend Environment Variables:
+   
     No specific environment variables required for the 
     
-3. Additional Configurations:
+5. Additional Configurations:
+   
     3.1 Ensure MongoDB is installed and running
+   
     3.2 Update backend .env file with appropriate MongoDB URI and JWT secret
 
 
