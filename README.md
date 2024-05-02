@@ -16,7 +16,6 @@ A real-time chat application built with React, Node.js, Express, and MongoDB.
 
 1. Clone the Repository:
 
-   ```bash
    git clone <repository_url>
 
 2. Navigate to the Project Directory:
