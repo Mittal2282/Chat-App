@@ -39,6 +39,7 @@ A real-time chat application built with React, Node.js, Express, and MongoDB.
 6. Access the Application:
 
    -> Frontend: http://localhost:3000
+   
    -> Backend: http://localhost:8080
 
 ## API Route Descriptions
